@@ -1,0 +1,58 @@
+{
+    "name": "Monarch API Manager",
+    "description": "100% open source API Management solution for quickly deploying, managing, and analyzing your APIs.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11782-monarch-api-manager.jpg",
+    "tags": [
+        "api management other",
+        "api service provider",
+        "have api",
+        "management"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/monarch-api-manager\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Monarch API Manager",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/11782-monarch-api-manager.jpg",
+            "humanURL": "http:\/\/www.monarchapis.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/monarch-api-manager-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/monarch-api-manager-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.monarchapis.com\/docs\/"
+        },
+        {
+            "type": "Email",
+            "url": "apis@captechconsulting.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/monarchapis"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/CapTechListens"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.monarchapis.com\/"
+        }
+    ]
+}
